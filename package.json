@@ -1,0 +1,23 @@
+{
+  "name": "reqres.in",
+  "version": "1.0.0",
+  "description": "Ez a projekt a [ReqRes](https://reqres.in/) nyílt teszt API végpontjainak automatizált tesztelését tartalmazza. A keretrendszer **Playwright** és **TypeScript** alapokon nyugszik, és a jól karbantartható, objektum-orientált **Service réteg (Service Object Model)** architektúrát használja.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencebodo/ReqRes.in_GET_Users_API_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bencebodo/ReqRes.in_GET_Users_API_Test/issues"
+  },
+  "homepage": "https://github.com/bencebodo/ReqRes.in_GET_Users_API_Test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
